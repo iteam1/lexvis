@@ -1,0 +1,4 @@
+// This is a comment
+hello world  // Another comment
+// hello Alice - this line is commented out
+hello Bob // Trailing comment

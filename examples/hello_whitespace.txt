@@ -1,0 +1,4 @@
+hello	world
+hello   Alice
+hello
+Bob  // Different whitespace patterns
